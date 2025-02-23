@@ -59,14 +59,14 @@ A
 </div>
 </div>
 
-<div className="relative xl:left-[40px]  md:left-[10px] md:top-[-25px]  top-[155px] xl:top-[-100px]  sm:top-[-120px]  lg:top-[-90px] lg:left-[40px]     left-10">
+<div className="relative xl:left-[40px]   md:left-[10px] md:top-[-25px]  top-[185px] xl:top-[-100px]  sm:top-[-120px]  lg:top-[-90px] lg:left-[40px]     left-10">
 <div className="relative top-[150px]     lg:top-[290px]     xl:top-[290px]    z-10 space-x-3 md:top-[290px]  sm:top-[149px] ">
-<button className="bg-black  w-[134px]  h-[30px]    sm:h-[30px] sm:w-[134px]     sm:text-xl   md:w-[134px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px] ">Hire me</button>
-<button className="bg-black  w-[134px]  h-[30px]   sm:h-[30px] sm:w-[134px]       sm:text-xl  md:w-[164px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px]">Dowload Cv</button>
+<button className="bg-black  w-[144px]  h-[30px]    sm:h-[30px] sm:w-[134px]  text-xl    sm:text-xl   md:w-[134px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px] ">Hire me</button>
+<button className="bg-black  w-[144px]  h-[30px]   sm:h-[30px] sm:w-[134px]   text-xl     sm:text-xl  md:w-[164px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px]">Dowload Cv</button>
 </div>  
 <div className="relative top-[124px] left-1  space-x-3 md:top-[250px]  sm:top-[122px] ">
-<button className="bg-[#00C6AE] w-[134px]  h-[30px]    sm:h-[30px] sm:w-[134px]     sm:text-xl   md:w-[134px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px] "></button>
-<button className="bg-[#00C6AE]  w-[134px]  h-[30px]  sm:h-[30px] sm:w-[134px]       sm:text-xl  md:w-[164px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px]"></button>
+<button className="bg-[#00C6AE] w-[144px]  h-[30px]    sm:h-[30px] sm:w-[134px]     sm:text-xl   md:w-[134px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px] "></button>
+<button className="bg-[#00C6AE]  w-[144px]  h-[30px]  sm:h-[30px] sm:w-[134px]       sm:text-xl  md:w-[164px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px]"></button>
 </div>
 
 
