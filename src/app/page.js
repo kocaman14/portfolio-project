@@ -44,7 +44,7 @@ A
 
   
    
-  <div className="relative top-0 left-10 md:top-[250px]    xl:top-[120px]">
+  <div className="relative top-0 left-10 md:top-[250px]  lg:top-[120px]     xl:top-[120px]">
 
   <div className="flex flex-col justify-start items-start md:space-y-3 sm:mt-0  sm:space-y-0"> 
 <div className="font-montserrat font-extrabold md:text-6xl text-[45px]  sm:text-[45px] sm:leading-0 leading-10 text-center tracking-normal">Hello,
@@ -59,7 +59,7 @@ A
 </div>
 </div>
 
-<div className="relative xl:left-[40px]  md:left-[10px] md:top-[-25px]  top-[145px] xl:top-[-100px]  sm:top-[-120px]  lg:top-[50px]     left-10">
+<div className="relative xl:left-[40px]  md:left-[10px] md:top-[-25px]  top-[155px] xl:top-[-100px]  sm:top-[-120px]  lg:top-[-90px] lg:left-[40px]     left-10">
 <div className="relative top-[150px]     lg:top-[290px]     xl:top-[290px]    z-10 space-x-3 md:top-[290px]  sm:top-[149px] ">
 <button className="bg-black  w-[134px]  h-[30px]    sm:h-[30px] sm:w-[134px]     sm:text-xl   md:w-[134px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px] ">Hire me</button>
 <button className="bg-black  w-[134px]  h-[30px]   sm:h-[30px] sm:w-[134px]       sm:text-xl  md:w-[164px] md:h-[43px] font-montserrat font-bold md:text-2xl leading-[39.01px] tracking-normal text-white rounded-[15px]">Dowload Cv</button>
@@ -77,7 +77,7 @@ A
 
 
 
-<div className=" relative md:left-[330px]  md:top-[-80px]    lg:top-[-80px] sm:left-[400px] sm:top-[-220px]    top-[-30px] left-10  xl:left-[900px] xl:top-[-200px]">
+<div className=" relative md:left-[330px]  lg:left-[600px]    md:top-[-80px]    lg:top-[-200px] sm:left-[400px] sm:top-[-220px]    top-[-30px] left-10  xl:left-[1350px] xl:top-[-200px]">
 <div className=" flex mr-0">
 <div>
 <img className=" xl:w-[400px]   xl:h-[450px]   mb-10 sm:mt-6 h-[250px]  w-[240px]   lg:h-[300px] lg:w-[300px]  md:h-[350px]  md:w-[350px] sm:w-[200px]  sm:h-[190px]   mr-4 " src="/images/avatar.png" />
